@@ -86,7 +86,7 @@ function flip() {
     } else {
         tail.innerHTML = t+1;
     };
-    img.src = "media/"+l[s];
+    img.src = l[s];
 }
 
 function bill() {
